@@ -3,9 +3,14 @@
 **Created by Svetlana Bormotova (my reset)**  
 **First published: 21 May 2025**
 
----
+**AudioSignature™** is a concept for embedding a recognizable voice phrase or sound identity within musical tracks. It can appear anywhere in the track and acts as a creative signature — like a sonic logo for the artist.
 
-**AudioSignature™** is an original concept for embedding a recognizable voice phrase or sound identity within musical tracks.  
-It can appear at any position in the track (not limited to intro or outro) and acts as a creative signature for the artist — similar to a visual logo, but in sound.
+This concept redefines musical authorship through personalized sound branding and provides artists with a new form of identity.
 
-This concept was created to redefin
+🔐 This page serves as a timestamped public record. All rights reserved. See `LICENSE.md` for licensing terms.
+
+📎 See `AudioSignature_Manifest.pdf`  
+🎧 Logo: `logo.png`  
+🖋 Author: Svetlana Bormotova / *my reset*  
+📬 Contact: svetavalencia5@gmail.com
+
